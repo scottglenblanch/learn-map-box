@@ -39,11 +39,11 @@ export default map => {
         'circle-radius': [
           'step',
           ['get', 'point_count'],
-          20,
+          10,
           100,
-          30,
+          15,
           750,
-          40
+          25
         ]
       }
     });
